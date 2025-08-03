@@ -11,17 +11,16 @@ A simple and elegant Shopping Cart system built using Laravel 11. This project a
 - Increase/decrease quantity of books in the cart
 - Remove individual books from the cart
 - View cart total
-- Beautiful UI with Bootstrap 5 and Font Awesome
+
 
 ---
 
 ## 🚀 Requirements
 
-- PHP >= 8.1
 - Composer
 - Laravel 11
 - MySQL or any supported DB
-- Node.js and NPM (for optional frontend assets)
+- 
 
 ---
 
